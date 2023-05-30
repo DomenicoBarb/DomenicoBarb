@@ -57,8 +57,6 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
-</br>
-
 ### Software and tools
 
 <p>

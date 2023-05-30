@@ -5,26 +5,23 @@ Hi! My name is Domenico Barberi.
 <br>
 <!-- Social badges section -->
 <p align="center">
-  
- <a href="https://domenicobarb.github.io/React-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio-blue?style=for-the-badge&logo=Blackberry&logoColor=black"></a>
-
-  
+  <a href="https://domenicobarb.github.io/React-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-portfolio-blue?style=for-the-badge&logo=Blackberry&logoColor=black"></a>  
 </p>
 
 </br>
   
 <div align="center">
   <ul>
-
-     🔭 I am currently a Student in the University of Toronto's Full-Stack coding Bootcamp!
-
+    I am currently a Student in the University of Toronto's Full-Stack coding Bootcamp!
+    I have experience with MERN stack development, and I am always looking to learn more!
+    Currently I am most comfortable with React, but I am also looking into learning more about Vue.js and Angular.
   </ul>
- </div>
+</div>
+
 <br>
 
 <div align="center">
-
 
 # I Have experience in using the following tech:
 
@@ -53,7 +50,7 @@ Hi! My name is Domenico Barberi.
   <a href="https://github.com/search?q=user%tjmcodes+language%3Anode.js"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 </p>
 
-### 🗄Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -65,25 +62,21 @@ Hi! My name is Domenico Barberi.
 ### Software and tools
 
 <p>
-</br>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-</br>
-<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-FFFFFF?logo=insomnia&logoColor=blueviolet"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
-</br>
-<a href="#"><img alt="Final Cut Pro X" src="https://img.shields.io/badge/Final%20Cut%20Pro%20X-222222.svg?logo=final-cut-pro-x&logoColor=white"></a>
-<a href="#"><img alt="Adobe Suite" src="https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"></a>
-<a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-111111?logo=cinema-4d&logoColor=white"></a>
-
-    
+  </br>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+  </br>
+  <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-FFFFFF?logo=insomnia&logoColor=blueviolet"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
+  </br>
+  <a href="#"><img alt="Final Cut Pro X" src="https://img.shields.io/badge/Final%20Cut%20Pro%20X-222222.svg?logo=final-cut-pro-x&logoColor=white"></a>
+  <a href="#"><img alt="Adobe Suite" src="https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"></a>
+  <a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-111111?logo=cinema-4d&logoColor=white"></a>  
 </p>
-
 
 </br>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DomenicoBarb.DomenicoBarb)](https://github.com/DomenicoBarb)
-
 
 </div>

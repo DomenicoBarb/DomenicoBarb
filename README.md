@@ -47,8 +47,9 @@ Hi! My name is Domenico Barberi.
 ### Frameworks and libraries
 
 <p>
-  <a href="https://github.com/search?q=user%tjmcodes+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Amongodb"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%tjmcodes+language%3Aexpress"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%tjmcodes+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Anode.js"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 </p>
 

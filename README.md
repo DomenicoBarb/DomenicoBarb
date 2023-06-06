@@ -39,6 +39,7 @@ Hi! My name is Domenico Barberi.
   <a href="https://github.com/search?q=user%tjmcodes+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Abootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+  <a href="https://ant.design"><img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?logo=ant-design&logoColor=white"></a>
 </p>
 
 ### Frameworks and libraries

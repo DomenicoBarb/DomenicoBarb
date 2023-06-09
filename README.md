@@ -23,7 +23,7 @@ Hi! My name is Domenico Barberi.
 
 <div align="center">
 
-# I Have experience in using the following tech:
+# I have experience in using the following tech:
 
 ### Languages
 

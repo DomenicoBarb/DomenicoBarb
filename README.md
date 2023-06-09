@@ -62,6 +62,14 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-589636.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
+### Operating Systems
+
+<p>
+  </br>
+  <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+</p>
+
 ### Software and tools
 
 <p>
@@ -77,14 +85,6 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="Adobe Suite" src="https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"></a>
   <a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-111111?logo=cinema-4d&logoColor=white"></a>  
-</p>
-
-### Operating Systems
-
-<p>
-  </br>
-  <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"></a>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
 </br>

@@ -71,6 +71,7 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
   </br>
+  <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="Final Cut Pro X" src="https://img.shields.io/badge/Final%20Cut%20Pro%20X-222222.svg?logo=final-cut-pro-x&logoColor=white"></a>
   <a href="#"><img alt="Adobe Suite" src="https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"></a>

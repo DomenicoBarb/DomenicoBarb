@@ -79,6 +79,14 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-111111?logo=cinema-4d&logoColor=white"></a>  
 </p>
 
+### Operating Systems
+
+<p>
+  </br>
+  <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+</p>
+
 </br>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DomenicoBarb.DomenicoBarb)](https://github.com/DomenicoBarb)

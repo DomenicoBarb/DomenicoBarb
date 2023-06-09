@@ -79,4 +79,4 @@ Hi! My name is Domenico Barberi.
 
 </br>
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DomenicoBarb.DomenicoBarb)](https://github.com/Domenico
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DomenicoBarb.DomenicoBarb)](https://github.com/DomenicoBarb)

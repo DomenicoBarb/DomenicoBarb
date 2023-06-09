@@ -14,7 +14,7 @@ Hi! My name is Domenico Barberi.
 <div align="center">
   <ul>
     I'm a recent graduate from the University of Toronto's Full-Stack coding Bootcamp!
-    I have experience with MERN SPA stack development, and I am always looking to learn more!
+    I have experience with MERN stack development (Single Page Application), and I am always looking to learn more!
     Currently I am most comfortable with React, but I am also looking into learning more about Vue.js and Angular.
   </ul>
 </div>

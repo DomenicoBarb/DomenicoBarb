@@ -5,7 +5,7 @@ Hi! My name is Domenico Barberi.
 <br>
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://domenicobarb.github.io/React-Portfolio/" target="_blank">
+  <a href="https://domenico-barberi-react-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-portfolio-blue?style=for-the-badge&logo=Blackberry&logoColor=black"></a>  
 </p>
 

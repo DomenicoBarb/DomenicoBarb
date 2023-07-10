@@ -59,6 +59,9 @@ Hi! My name is Domenico Barberi.
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify-FF9900.svg?logo=amazon-aws&logoColor=white"></a>
   </br>
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>

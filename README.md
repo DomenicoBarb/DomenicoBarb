@@ -50,6 +50,10 @@ Hi! My name is Domenico Barberi.
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 </p>
 
+<p>
+  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+</p>
+
 ### Databases and cloud hosting
 
 <p>
